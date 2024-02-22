@@ -1,4 +1,5 @@
 # CorgiTools
+# 请下载压缩文件！ 之后会自动解压！♥️
 macOS辅助命令行工具Demo，大版本是0.8
 在运行程序后输入 Tutorial_CorgiTools 即可以获得教程，
 目前可以运行在配备了Intel或者Apple silicon的Mac上运行， windows也可以通过虚拟机等方案来执行UNIX可执行程序。
